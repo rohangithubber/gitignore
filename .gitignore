@@ -1,2 +1,9 @@
+# To ignore a particular file
 new-file.txt
+#To ignore a particular folder
+
 bin/
+
+#To ignore a particular extendion
+
+*.tmp
